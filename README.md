@@ -11,6 +11,7 @@ Total planned features list:
 - AI cars to race against
 - Animated UI menu's
 - Power-ups in the forms of accelechargers and team-based abilities
+- Dynamic audio using FMOD integrated sound projects
 - Better optimization than its predecessor
 
 PA2 as a project follows the [Allar Style Guide for UE5](https://github.com/Allar/ue5-style-guide).
